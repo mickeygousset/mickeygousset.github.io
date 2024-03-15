@@ -10,9 +10,14 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- label: "YouTube"
+  icon: "fab fa-fw fa-youtube"
+  url: "https://www.youtube.com/mickeygousset"
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
