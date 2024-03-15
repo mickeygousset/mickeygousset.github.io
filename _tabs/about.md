@@ -8,10 +8,6 @@ order: 4
 
 ---
 
-<div align="left">
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Subscribers&style=social) 
-</div>
-
 I'm a DevOps Architect on the GitHub FastTrack team.  That means my day job is going out and helping people get more "devopsy", usually with a focus on GitHub, DevOps, and AI.
 
 I also am a content creator, creating content on my [blog](https://mickeygousset.com/), [Twitch](https://www.twitch.tv/mickeygousset), and [YouTube](https://youtube.com/mickeygousset).   Most of my content revolves around DevOps, GitHub, and AI, as you might expect.
