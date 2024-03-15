@@ -6,6 +6,8 @@ order: 4
 
 ### Hi y'all ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif){: width="30px"}, I'm Mickey Gousset!
 
+---
+
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Subscribers&style=social) 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Views&style=social) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mickey_gousset?style=social) 
