@@ -4,12 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-#> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-#{: .prompt-tip }
-
 ### Hi y'all ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif){: width="30px"}, I'm Mickey Gousset!
-
----
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Subscribers&style=social) 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Views&style=social) 
