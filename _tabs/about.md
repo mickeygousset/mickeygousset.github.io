@@ -4,5 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+#> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+#{: .prompt-tip }
+
+### Hi y'all <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mickey Gousset!
+
+---
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Subscribers&style=social) 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC33hrmkTMUkztwUJ8pasDDQ?label=YouTube%20Views&style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/mickey_gousset?style=social) 
+![Twitch Status](https://img.shields.io/twitch/status/mickeygousset?style=social)
+
+I'm a DevOps Architect on the GitHub FastTrack team.  That means my day job is going out and helping people get more "devopsy", usually with a focus on GitHub, DevOps, and AI.
+
+I also am a content creator, creating content on my [blog](https://mickeygousset.com/), [Twitch](https://www.twitch.tv/mickeygousset), and [YouTube](https://youtube.com/mickeygousset).   Most of my content revolves around DevOps, GitHub, and AI, as you might expect.
+
+Check out my organization, https://github.com/mickeygoussetorg, to see all my demo repos and other fun stuff I'm working on.  After all, everyone needs a [GitHub Action to tell a Dad Joke](https://github.com/mickeygoussetorg/get-a-dad-joke), right?
+
+And don't be a stranger! There are all sorts of ways to interact with me, from leaving comments on my posts to various social media options. Reach out! I'd love to hear from you!
