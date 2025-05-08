@@ -20,6 +20,8 @@ If you are using the GitHub [`actions/checkout`](https://github.com/actions/chec
 
 These errors can be frustrating, especially if you are not sure what is causing them. It can be even more frustrating when it starts to happen in a workflow that was previously working. In this post, I will explain the two error messages, why they occur, and how to fix them. But first, we need to talk a little bit about workflow permissions.
 
+{% include embed/youtube.html id='ZZxhzr3GGlY' %}
+
 ## Workflow Permissions
 
 The [GITHUB_TOKEN](https://docs.github.com/en/actions/security-for-github-actions/security-guides/automatic-token-authentication) has certain default permissions when running workflows in a repository:
