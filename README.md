@@ -54,3 +54,11 @@ This work is published under [MIT][mit] License.
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Working with Drafts
+
+- Create post in the `_drafts` folder
+- Can be viewed using the --drafts flag
+- Posts in `_drafts` typically don't have the date in the file name
+- bundle exec jekyll serve --drafts
+- bundel exec jekyll serve --drafts --livereload
